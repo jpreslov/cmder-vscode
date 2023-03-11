@@ -1,6 +1,7 @@
 # Add Cmder to VSCode (Windows)
 
  _Note: This is to save myself time, but if you're reading this and know of a better way to do this, make a PR_
+ _Other note: This presumes you have Cmder installed_
 
 - `%CMDER_PATH%` will need to be defined on your machine (as a system variable), or replaced with the root Cmder folder path manually.
 - Copy + paste the following into your VSCode `settings.json` file:
