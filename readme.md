@@ -1,4 +1,4 @@
-# Add Cmder to Windows
+# Add Cmder to VSCode (Windows)
 
  _Note: This is to save myself time, but if you're reading this and know of a better way to do this, make a PR_
 
